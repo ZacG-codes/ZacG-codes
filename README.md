@@ -2,14 +2,16 @@
 I am a computer science major at UT Dallas interested in software engineering, AI/ML, and quantitative finance.
 
 ## I'm Currently Working On
-- Equity valuation model and research into shares vs options strategies for quantitative value trading
+- Equity valuation research for quantitative factor investing
 - Mobile fitness app that tracks both exercise and nutrition in one place
-- Machine-learning chess bot
 
 ## I'm Currently Learning
-- Probability and statistics for quantitative finance
-- Advanced data structures and algorithms
-- Applications of OOP as they apply to software engineering
+- Probability and statistics
+- Systems programming in UNIX
+- Data structures and algorithmic analysis
+- Version control systems
+- Mathematical foundations in logic and proofs
+- Classical mechanics
 
 ## Skills & Tools
 - **Tools:** NeoVim, Linux, git/GitHub
@@ -21,7 +23,6 @@ I am a computer science major at UT Dallas interested in software engineering, A
 
 ## Fun Facts
 - I am a classical pianist
-- I play chess
 - I like weightlifting
 
 <!--
