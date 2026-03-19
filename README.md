@@ -1,14 +1,11 @@
 # About Me
-I am a computer science major at UT Dallas interested in software engineering, AI/ML, and quantitative finance.
+I am a computer science major at UT Dallas interested in pure math, theoretical physics, quantitative finance, and software engineering
 
 ## I'm Currently Working On
-- Equity valuation research for quantitative factor investing
-- Mobile fitness app that tracks both exercise and nutrition in one place
+- Equity valuation model research for quantitative trading
 
 ## I'm Currently Learning
-- Probability and statistics
-- Systems programming in UNIX
-- Data structures and algorithmic analysis
+- Systems programming
 - Version control systems
 - Mathematical foundations in logic and proofs
 - Classical mechanics
@@ -17,13 +14,23 @@ I am a computer science major at UT Dallas interested in software engineering, A
 - **Tools:** NeoVim, Linux, git/GitHub
 - **Languages:** Python, C/C++, Bash
 
+## Future Plans
+- Learn: JavaScript, HTML/CSS, Go, Rust
+- Build a personal website
+- Build a mobile fitness app that tracks exercise and nutrition in one place
+- Build a quantitative trading dashboard in the terminal
+- Unify quantum field theory and general relativity
+- Solve world hunger
+- Cure cancer
+
 ## How to Reach Me
-- (Email)
 - (LinkedIn)
 
 ## Fun Facts
 - I am a classical pianist
 - I like weightlifting
+- I play chess
+- I use vim btw
 
 <!--
 **ZacG-codes/ZacG-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
