@@ -12,10 +12,10 @@ I am a computer science major at UT Dallas interested in pure math, theoretical 
 
 ## Skills & Tools
 - **Tools:** NeoVim, Linux, git/GitHub
-- **Languages:** Python, C/C++, Bash
+- **Languages:** Python, C/C++, Bash, x86 ASM, 
 
 ## Future Plans
-- Learn: JavaScript, HTML/CSS, Go, Rust
+- Learn: JavaScript, HTML/CSS, Go, Rust, Haskell
 - Build a personal website
 - Build a mobile fitness app that tracks exercise and nutrition in one place
 - Build a quantitative trading dashboard in the terminal
@@ -29,7 +29,6 @@ I am a computer science major at UT Dallas interested in pure math, theoretical 
 ## Fun Facts
 - I am a classical pianist
 - I like weightlifting
-- I play chess
 - I use vim btw
 
 <!--
