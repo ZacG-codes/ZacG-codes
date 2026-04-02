@@ -5,23 +5,21 @@ I am a computer science major at UT Dallas interested in pure math, theoretical 
 - Equity valuation model research for quantitative trading
 
 ## I'm Currently Learning
-- Systems programming
 - Version control systems
-- Mathematical foundations in logic and proofs
+- Algorithmic analysis
+- Logic and proofs
 - Classical mechanics
 
 ## Skills & Tools
-- **Tools:** NeoVim, Linux, git/GitHub
-- **Languages:** Python, C/C++, Bash, x86 ASM, 
+- **Tools:** NeoVim, Linux, Git/GitHub
+- **Languages:** C/C++, Python, Java, C#, Lua, x86 ASM, Bash
 
 ## Future Plans
-- Learn: JavaScript, HTML/CSS, Go, Rust, Haskell
+- Learn: JavaScript, HTML/CSS, Go, Rust, Haskell, SQL
 - Build a personal website
 - Build a mobile fitness app that tracks exercise and nutrition in one place
 - Build a quantitative trading dashboard in the terminal
 - Unify quantum field theory and general relativity
-- Solve world hunger
-- Cure cancer
 
 ## How to Reach Me
 - (LinkedIn)
