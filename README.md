@@ -11,12 +11,12 @@ I am a computer science major at UT Dallas interested in pure math, theoretical 
 - Classical mechanics
 
 ## Skills & Tools
-- **Tools:** NeoVim, Linux, Git/GitHub
-- **Languages:** C/C++, Python, Java, C#, Lua, x86 ASM, Bash
+- **Tools:** FastAPI, React, HTML/CSS, SQL, AWS, NumPy, pandas, Linux, Git/GitHub, NeoVim
+- **Languages:** C/C++, Python, JavaScript, Bash
 
 ## Future Plans
-- Learn: JavaScript, HTML/CSS, Go, Rust, Haskell, SQL
-- Build a personal website
+- Learn: full stack web dev, functional programming, rust
+- Build a personal portfolio website
 - Build a mobile fitness app that tracks exercise and nutrition in one place
 - Build a quantitative trading dashboard in the terminal
 - Unify quantum field theory and general relativity
