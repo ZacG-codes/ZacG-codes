@@ -7,19 +7,16 @@ I am a computer science major at UT Dallas interested in pure math, theoretical 
 ## I'm Currently Learning
 - Version control systems
 - Algorithmic analysis
-- Logic and proofs
-- Classical mechanics
 
 ## Skills & Tools
-- **Tools:** FastAPI, React, HTML/CSS, SQL, AWS, NumPy, pandas, Linux, Git/GitHub, NeoVim
-- **Languages:** C/C++, Python, JavaScript, Bash
+- **Tools:** Linux, Git/GitHub, NeoVim
+- **Languages:** C/C++, Python, Bash
 
 ## Future Plans
 - Learn: full stack web dev, functional programming, rust
 - Build a personal portfolio website
 - Build a mobile fitness app that tracks exercise and nutrition in one place
 - Build a quantitative trading dashboard in the terminal
-- Unify quantum field theory and general relativity
 
 ## How to Reach Me
 - (LinkedIn)
