@@ -2,26 +2,28 @@
 I am a computer science major at UT Dallas interested in math, quantitative finance, and software engineering
 
 ## I'm Currently Working On
-- Equity valuation model research for quantitative trading
-
+- NeoVim IDE configuration framework
+- CLI discounted cash flow valuation model
 ## I'm Currently Learning
 - Version control systems
-- Systems programming in Unix
+- Systems programming
+- Probability and Statistics
 
 ## Skills & Tools
-- **Tools:** Linux, Git/GitHub, Vim/NeoVim
-- **Languages:** C/C++, Python, Bash
+- **Tools:** Linux, Git, GitHub, Vim, NeoVim
+- **Languages:** C, C++, Bash, Lua
 
 ## Future Plans
-- Build a personal portfolio website
-- Build a mobile fitness app that tracks exercise and nutrition in one place
+- Personal portfolio website
+- Mobile fitness app that tracks exercise and nutrition in one place
+- Monte Carlo option pricer
 
 ## How to Reach Me
 - (LinkedIn)
 
 ## Fun Facts
-- I play classical and jazz piano
-- I like weightlifting
+- I play piano
+- I enjoy lifting weights
 
 <!--
 **ZacG-codes/ZacG-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
