@@ -1,25 +1,25 @@
 # About Me
-I am a computer science major at UT Dallas interested in math, quantitative finance, and software engineering
+I am a computer science major at UT Dallas interested in math, finance, quantitative trading, artificial intelligence/machine learning, and software engineering
 
 ## I'm Currently Working On
 - NeoVim IDE configuration framework
-- CLI discounted cash flow valuation model
+- CLI intrinsic valuation model
+
 ## I'm Currently Learning
-- Version control systems
-- Systems programming
-- Probability and Statistics
+- Digital logic and design
+- Programming language paradigms
+- Software engineering principles
 
 ## Skills & Tools
-- **Tools:** Linux, Git, GitHub, Vim, NeoVim
+- **Tools:** Linux, Git, GitHub, NeoVim
 - **Languages:** C, C++, Bash, Lua
 
 ## Future Plans
 - Personal portfolio website
 - Mobile fitness app that tracks exercise and nutrition in one place
-- Monte Carlo option pricer
 
 ## How to Reach Me
-- (LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/zachary-gregory06/)
 
 ## Fun Facts
 - I play piano
