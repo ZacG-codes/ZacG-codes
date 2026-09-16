@@ -21,9 +21,11 @@ I am a computer science major at UT Dallas interested in math, finance, quantita
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/zachary-gregory06/)
 
-## Fun Facts
-- I play piano
-- I enjoy lifting weights
+## Hobbies
+- Classical and jazz piano
+- Weightlifting (hypertrophy)
+- Chess
+- Language-learning
 
 <!--
 **ZacG-codes/ZacG-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
