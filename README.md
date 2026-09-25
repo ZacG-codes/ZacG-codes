@@ -1,5 +1,5 @@
 # About Me
-I am a computer science major at UT Dallas interested in math, finance, quantitative trading, artificial intelligence/machine learning, and software engineering
+I am a computer science major at UT Dallas interested in math, physics, physics, computer science, quantitative finance, and engineering
 
 ## I'm Currently Working On
 - NeoVim IDE configuration framework
