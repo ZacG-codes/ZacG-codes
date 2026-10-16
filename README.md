@@ -23,8 +23,7 @@ I am a computer science major at UT Dallas interested in math, physics, computer
 
 ## Hobbies
 - Classical and jazz piano
-- Weightlifting (hypertrophy)
-- Chess
+- Weightlifting
 - Language-learning
 
 <!--
