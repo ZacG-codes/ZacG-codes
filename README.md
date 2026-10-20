@@ -1,5 +1,5 @@
 # About Me
-I am a computer science major at UT Dallas interested in math, physics, computer science, quantitative finance, and engineering
+I am a computer science major at UT Dallas interested in math, physics, engineering, computer science, and quantitative finance
 
 ## I'm Currently Working On
 - NeoVim IDE configuration framework
@@ -23,8 +23,9 @@ I am a computer science major at UT Dallas interested in math, physics, computer
 
 ## Hobbies
 - Classical and jazz piano
-- Weightlifting
+- Weightlifting and running
 - Language-learning
+- Cubing
 
 <!--
 **ZacG-codes/ZacG-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
