@@ -1,9 +1,8 @@
 # About Me
-I am a computer science major at UT Dallas interested in math, physics, engineering, computer science, and quantitative finance
+I am a computer science major at UT Dallas interested in math, CS, software engineering, and quantitative finance.
 
 ## I'm Currently Working On
-- NeoVim IDE configuration framework
-- CLI intrinsic valuation model
+- Full-stack equity valuation web app
 
 ## I'm Currently Learning
 - Digital logic and design
@@ -15,8 +14,9 @@ I am a computer science major at UT Dallas interested in math, physics, engineer
 - **Languages:** C, C++, Bash, Lua
 
 ## Future Plans
-- Personal portfolio website
-- Mobile fitness app that tracks exercise and nutrition in one place
+- Personal website
+- Unix-style shell
+- Language interpreter
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/zachary-gregory06/)
@@ -25,7 +25,7 @@ I am a computer science major at UT Dallas interested in math, physics, engineer
 - Classical and jazz piano
 - Weightlifting and running
 - Language-learning
-- Cubing
+- Reading
 
 <!--
 **ZacG-codes/ZacG-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
