@@ -1,5 +1,5 @@
 # About Me
-I am a computer science major at UT Dallas interested in math, CS, software engineering, and quantitative finance.
+I am a computer science major at UT Dallas interested in math, computer science, software engineering, and quantitative finance.
 
 ## I'm Currently Working On
 - Full-stack equity valuation web app
@@ -26,6 +26,7 @@ I am a computer science major at UT Dallas interested in math, CS, software engi
 - Weightlifting and running
 - Language-learning
 - Reading
+- Chess
 
 <!--
 **ZacG-codes/ZacG-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
